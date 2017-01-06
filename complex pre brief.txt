@@ -1,0 +1,15 @@
+preProduction brief
+
+goals of complex systems
+
+ceate a basic ai in Unreal Engine.
+
+Make a tracking ai.
+
+make an ai BlackBoard and State Tree.
+
+Make a wonder, chase and attack state.
+
+Create a memeory of players last known location and travel to insearch of the player.
+
+
